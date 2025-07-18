@@ -1,11 +1,11 @@
 # Telegram Bot
-API_TOKEN = "ВАШ_TELEGRAM_BOT_TOKEN"
+API_TOKEN = "7939842523:AAGHVDyii9GtZTWSFqgP8WKAxqPIVRxaagM"
 REQUIRED_CHANNEL = "@ваш_канал"  # Канал для подписки
 ADMIN_ID = 123456789  # Ваш ID (узнать через @userinfobot)
 
 # DeepSeek API (ротация ключей)
 DEEPSEEK_API_KEYS = [
-    "ключ1",
+    "",
     "ключ2",
     "ключ3"
 ]
